@@ -1,6 +1,9 @@
 # front_5G-
 5G手机评价分析平台前端
 
+后端指路：https://gitee.com/ouguangye/jd_phone
+<br>
+<br>
 项目环境：
 <br>
 node.js 16.0.0
